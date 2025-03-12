@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\mission10_esplin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\mission10_esplin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|c:\\users\\brynn\\onedrive - brigham young university\\isjuniorcore\\is413\\mission10_esplin\\backend\\mission10_esplin\\mission10_esplin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFF0EAFD-84AC-4A88-9759-A5A154B21D0E}|Mission10_Esplin\\Mission10_Esplin.csproj|solutionrelative:mission10_esplin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mission10_Esplin.http",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Mission10_Esplin.http",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Mission10_Esplin.http",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Mission10_Esplin.http",
+              "RelativeToolTip": "Mission10_Esplin\\Mission10_Esplin.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-12T22:27:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Data\\Team.cs",
+              "RelativeToolTip": "Mission10_Esplin\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:14:01.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "Mission10_Esplin\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:13:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BowlingLeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Controllers\\BowlingLeagueController.cs",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Controllers\\BowlingLeagueController.cs",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Controllers\\BowlingLeagueController.cs",
+              "RelativeToolTip": "Mission10_Esplin\\Controllers\\BowlingLeagueController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:13:25.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mission10_Esplin\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T16:55:19.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\appsettings.json",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\appsettings.json",
+              "RelativeToolTip": "Mission10_Esplin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T16:55:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Data\\Bowler.cs",
+              "RelativeToolTip": "Mission10_Esplin\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:56:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_Esplin\\Program.cs",
+              "ToolTip": "C:\\Users\\brynn\\OneDrive - Brigham Young University\\ISJuniorCore\\IS413\\Mission10_Esplin\\backend\\Mission10_Esplin\\Mission10_Esplin\\Program.cs",
+              "RelativeToolTip": "Mission10_Esplin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:39:33.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

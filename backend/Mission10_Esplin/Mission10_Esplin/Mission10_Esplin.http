@@ -1,0 +1,6 @@
+@Mission10_Esplin_HostAddress = http://localhost:5242
+
+GET {{Mission10_Esplin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
